@@ -1,0 +1,9 @@
+{
+	"name": "ompdevopsgitadf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "190cca0d-f0b6-4b9e-bbfb-a5ebe17494f3",
+		"tenantId": "2732182f-99fb-4517-b00c-951624afff93"
+	}
+}
